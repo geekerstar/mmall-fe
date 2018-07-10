@@ -1,0 +1,11 @@
+/node_modules/
+/dist/
+npm-debug.log
+
+
+#idea
+.idea/
+/idea/
+*.ipr
+*.iml
+*.iws
