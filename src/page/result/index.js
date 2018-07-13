@@ -1,5 +1,5 @@
-require("./result.css");
-require("page/common/nav-simple/nav-simple.css");
+require("./index.css");
+require("page/common/nav-simple/index.css");
 
 var mm = require('util/mm.js');
 
